@@ -1,3 +1,5 @@
+[English](README.md) · [日本語](README.ja.md) · [简体中文](README.zh-Hans.md) · [한국어](README.ko.md) · [Español](README.es.md)
+
 # Awesome AI Solopreneur [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated, practice-tested list for people who run a business alone with a team of AI agents.
