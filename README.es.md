@@ -52,6 +52,7 @@ Las entradas marcadas con *(Kazuaand)* son herramientas y documentos de código 
 ### Funciones y delegación
 
 - [Graph Compound Engineering](https://github.com/Kazuaand/graph-compound-engineering) *(Kazuaand)* - Un manual para delegar en agentes trabajos que duran varios días: redacta una especificación, un grafo de trabajo y un organigrama, asigna cada puesto según el peso de sus decisiones y haz que cada retrospectiva facilite el siguiente encargo.
+- [Agent Delegation Playbook](https://github.com/Kazuaand/agent-delegation-playbook) *(Kazuaand)* - Cuándo delegar en un subagente y cuándo hacerlo tú, cómo redactar el encargo, qué debe devolver y qué nivel de modelo y de esfuerzo usar.
 - [Cómo construimos nuestro sistema de investigación multiagente](https://www.anthropic.com/research/multi-agent-research-system) - Explica con franqueza el coste en tokens de repartir trabajo en paralelo y cuánto condicionan el resultado las instrucciones del encargo.
 - [Compound engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents) - La idea de que cada unidad de trabajo debe facilitar la siguiente. El origen del ciclo de mejora acumulativa.
 - [Compound Engineering plugin](https://github.com/EveryInc/compound-engineering-plugin) - Un ciclo funcional de planificación, ejecución, revisión y mejora acumulativa que puedes instalar y estudiar.

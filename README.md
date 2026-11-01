@@ -48,6 +48,7 @@ Entries marked *(Kazuaand)* are the maintainer's own open-source write-ups and t
 ### Roles and delegation
 
 - [Graph Compound Engineering](https://github.com/Kazuaand/graph-compound-engineering) *(Kazuaand)* - A handbook for handing multi-day work to agents: write a spec, a work graph and an org chart, seat each role by the weight of its decisions, and let each retro make the next job easier.
+- [Agent Delegation Playbook](https://github.com/Kazuaand/agent-delegation-playbook) *(Kazuaand)* - When to hand work to a sub-agent and when to do it yourself, how to write the brief, what it must return, and which model tier and effort to use.
 - [How we built our multi-agent research system](https://www.anthropic.com/research/multi-agent-research-system) - Candid about what fan-out costs in tokens and how much the brief decides the result.
 - [Compound engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents) - The idea that each unit of work should make the next one easier. The origin of the "compound" loop.
 - [Compound Engineering plugin](https://github.com/EveryInc/compound-engineering-plugin) - A working plan, work, review and compound cycle you can install and read.

@@ -52,6 +52,7 @@ English | [日本語](README.ja.md)
 ### 역할과 위임
 
 - [Graph Compound Engineering](https://github.com/Kazuaand/graph-compound-engineering) *(Kazuaand)* - 여러 날에 걸친 일을 에이전트에게 맡기기 위한 핸드북입니다. 명세, 작업 그래프, 조직도를 작성하고, 판단의 무게에 맞춰 각 역할에 모델을 배치하며, 회고를 통해 다음 일을 더 쉽게 만듭니다.
+- [Agent Delegation Playbook](https://github.com/Kazuaand/agent-delegation-playbook) *(Kazuaand)* - 언제 하위 에이전트에게 맡기고 언제 직접 할지, 지시서를 어떻게 쓰고 무엇을 돌려받을지, 어떤 등급의 모델과 effort를 쓸지 정리한 플레이북입니다.
 - [멀티 에이전트 리서치 시스템을 구축한 방법](https://www.anthropic.com/research/multi-agent-research-system) - 작업을 여러 에이전트로 나눌 때 드는 토큰 비용과 작업 지시서가 결과를 얼마나 좌우하는지 솔직하게 설명합니다.
 - [Compound engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents) - 하나의 작업이 다음 작업을 더 쉽게 만들어야 한다는 생각입니다. "compound" 루프의 출발점입니다.
 - [Compound Engineering plugin](https://github.com/EveryInc/compound-engineering-plugin) - 계획, 실행, 검토, 개선 축적의 순환을 구현한 플러그인으로, 설치해 쓰거나 내부를 살펴볼 수 있습니다.

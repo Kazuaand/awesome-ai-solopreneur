@@ -52,6 +52,7 @@
 ### 角色与委派
 
 - [Graph Compound Engineering](https://github.com/Kazuaand/graph-compound-engineering) *(Kazuaand)* - 一本将跨多天的工作交给智能体的手册：编写规格说明、工作图和组织架构图，按决策的分量配置各个岗位，并通过每次复盘让下一项工作更容易。
+- [Agent Delegation Playbook](https://github.com/Kazuaand/agent-delegation-playbook) *(Kazuaand)* - 何时把工作交给子智能体、何时自己动手，如何写任务说明，要求它返回什么，以及该用哪一档模型和推理强度。
 - [我们如何构建多智能体研究系统](https://www.anthropic.com/research/multi-agent-research-system) - 坦诚讨论并行分派任务的 token 成本，以及任务简报对结果有多大影响。
 - [复利工程](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents) - 每一项工作都应让下一项更容易。这是“复利”循环的思想来源。
 - [Compound Engineering plugin](https://github.com/EveryInc/compound-engineering-plugin) - 一套已实现的规划、执行、审查与积累改进循环，可安装使用，也可阅读其实现。

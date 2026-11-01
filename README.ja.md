@@ -48,6 +48,7 @@
 ### 役割分担と委譲
 
 - [Graph Compound Engineering](https://github.com/Kazuaand/graph-compound-engineering) *(Kazuaand)* - 複数日の仕事を agent に任せるための手引き。仕様・仕事の地図・組織表を書き、判断の重さで役割を席に割り当て、振り返りのたびに次の仕事を楽にしていきます。
+- [Agent Delegation Playbook](https://github.com/Kazuaand/agent-delegation-playbook) *(Kazuaand)* - 自分でやるか振るかの決め方、sub-agent への依頼書の書き方、何を返させるか、model の格と effort の選び方をまとめた手引き。
 - [How we built our multi-agent research system](https://www.anthropic.com/research/multi-agent-research-system) - 並列に振ると token がどれだけかかるか、指示書の出来がどれだけ結果を左右するかを率直に書いています。
 - [Compound engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents) - 1 つの仕事が次の仕事を楽にするように積み上げる、という考え方の出どころ。
 - [Compound Engineering plugin](https://github.com/EveryInc/compound-engineering-plugin) - 計画・作業・レビュー・積み上げの循環を、入れて読める形で実装したもの。
